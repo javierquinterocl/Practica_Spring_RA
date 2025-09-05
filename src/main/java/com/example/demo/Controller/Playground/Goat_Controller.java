@@ -48,4 +48,5 @@ public class Goat_Controller {
         return ("La cabra con el indice: " + index + " ha sido eliminada");
     }
 
+
 }
